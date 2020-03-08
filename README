@@ -1,0 +1,8 @@
+Just playing with native compilation of simple Java SE application to native application (Linux / ELF64).
+
+Requires JAVA_HOME to be set on graalvm-ce-java11-20.0.0 to make a native compilation work.
+
+Stub for more sophisticated use cases in the future.
+
+To run output execute:
+$ target/./pl.mgorski.application
